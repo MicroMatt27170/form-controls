@@ -1,0 +1,29 @@
+{
+  "name": "form-controls",
+  "version": "0.0.1",
+  "description": "Vue 2 Form Controls with V-Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "core-js": "^3.6.5",
+    "simple-code-editor": "^1.1.9",
+    "vue": "^3.0.0",
+    "vue-select": "^4.0.0-beta.3"
+  },
+  "keywords": [
+    "vue2",
+    "vue",
+    "form",
+    "form-controls",
+    "controls",
+    "input",
+    "select",
+    "checkbox",
+    "radio"
+  ],
+  "author": "Matthew Montes de Oca",
+  "license": "ISC"
+}
