@@ -1,8 +1,9 @@
 {
-  "name": "form-controls",
+  "name": "@matthew27170/form-controls",
   "version": "0.0.1",
   "description": "Vue 2 Form Controls with V-Model",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
