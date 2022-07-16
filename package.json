@@ -1,6 +1,6 @@
 {
   "name": "@matthew27170/form-controls",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Vue 2 Form Controls with V-Model",
   "main": "index.js",
   "private": false,
